@@ -6,5 +6,12 @@
 */
 {
   "files": [],
-  "references": []
+  "references": [
+    {
+      "path": "./projects/angular-stripe-lib/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/angular-stripe-lib/tsconfig.spec.json"
+    }
+]
 }
